@@ -1,0 +1,18 @@
+{
+  "name": "dependency.injection.tdd",
+  "version": "1.0.0",
+  "description": "Write an angular like dependency injection step by step in tdd style.",
+  "main": "injector.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "di","tdd","angular"
+  ],
+  "author": "jiubao",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
