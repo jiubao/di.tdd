@@ -17,6 +17,12 @@ $ npm install
 $ mocha
 ```
 
+### Tests
+
+ - inject literal object
+ - inject by factory function
+ - dependencies in array
+ - inject width dependencies
 
 
 ### Todos
